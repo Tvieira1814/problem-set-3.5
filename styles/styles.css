@@ -1,0 +1,38 @@
+body {
+Background-color: #0e64ef;
+
+h1 {
+Color : Red;
+}
+
+h2 {
+Color : skyblue;
+}
+
+.black {
+ Color : #f33;
+}
+
+.light {
+Background: #ffa;
+}
+
+.spf {
+Text-shadow : 1px 1px 1px #77f
+}
+
+#identified {
+  Font size : 30;
+}
+
+.a {
+Color : cyan;
+}
+
+#maincontent {
+Border: 1px solid black;
+}
+
+Button: hover  {
+Color : yellow;
+}
